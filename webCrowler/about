@@ -1,0 +1,5 @@
+This is a web crowler in python for searching any specific page going from a random page and stoping a 
+target_url that can be changed by the user.
+The search mechanism is simple: The crawler will always identify the first link of the web page and open it.
+The number of max_steps can be changed too, and the script will be used as many times as the user wants. 
+It also has a if clause that will terminate the search in case for a loop.

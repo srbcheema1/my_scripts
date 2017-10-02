@@ -11,7 +11,11 @@ Scripts contained in this repository:
 
 and more !
 
-### Constributions are welcome !
+## Contribute
 
-Created by srbcheema1
-https://github.com/srbcheema1
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
+
+<br>
+
+Created by [srbcheema1](https://github.com/srbcheema1)

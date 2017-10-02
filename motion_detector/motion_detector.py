@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# author: pBouillon (https://github.com/pBouillon)
 
 '''
     Small code sample using the HC-SR04 sensor and a LED

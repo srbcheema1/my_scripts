@@ -1,14 +1,17 @@
-# Assorted Python Codes
+# My Python Scripts
+### Scripts for everyday tasks
 
-With these scripts you can...
+Scripts contained in this repository:
+- URL Shortener using Tiny URL
+- Bing Image Scraper
+- Reddit Wallpaper Scraper
+- Batch Image Resizer
+- Song scraper
+- Youtube Player
 
-• Scrape images from Bing   
-• Shorten URLs    
-• View wallpapers from Subreddits of your choice
+and more !
 
-And much more!
-
-
+### Constributions are welcome !
 
 Created by srbcheema1
 https://github.com/srbcheema1

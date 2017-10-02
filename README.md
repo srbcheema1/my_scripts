@@ -2,8 +2,8 @@
 
 With these scripts you can...
 
-• Scrape images from Bing
-• Shorten URLs
+• Scrape images from Bing   
+• Shorten URLs    
 • View wallpapers from Subreddits of your choice
 
 And much more!

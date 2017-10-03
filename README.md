@@ -7,13 +7,13 @@ Scripts contained in this repository:
 - Reddit Wallpaper Scraper
 - Batch Image Resizer
 - Song scraper
-- YouTube Player  ![YouTube Player Icon](/Icons/youTubeIcon.png "YouTube Player")
+- Youtube Player
 
 and more !
 
 ## Contribute
 
-Contributions are always welcome!
+Contributions are always welcome! And hackobtoberfest t-shirts are cool.
 Please read the [contribution guidelines](contributing.md) first.
 
 <br>

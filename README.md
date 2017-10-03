@@ -9,11 +9,15 @@ Scripts contained in this repository:
 - [Reddit Wallpaper](https://www.reddit.com/r/wallpapers/) Scraper
 - Batch Image Resizer
 - Song scraper
-- [Youtube](https://youtube.com) Player
+- YouTube Player  ![YouTube Player Icon](/Icons/youTubeIcon.png "YouTube Player")
 
 and more !
 
-### Constributions are welcome !
+## Contribute
 
-Created by srbcheema1
-https://github.com/srbcheema1
+Contributions are always welcome! And hackobtoberfest t-shirts are cool.
+Please read the [contribution guidelines](contributing.md) first.
+
+<br>
+
+Created by [srbcheema1](https://github.com/srbcheema1)

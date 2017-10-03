@@ -13,7 +13,7 @@ and more !
 
 ## Contribute
 
-Contributions are always welcome!
+Contributions are always welcome! And hackobtoberfest t-shirts are cool.
 Please read the [contribution guidelines](contributing.md) first.
 
 <br>

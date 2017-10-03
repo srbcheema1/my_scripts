@@ -7,7 +7,7 @@ Scripts contained in this repository:
 - Reddit Wallpaper Scraper
 - Batch Image Resizer
 - Song scraper
-- Youtube Player
+- YouTube Player  ![YouTube Player Icon](/Icons/youTubeIcon.png "YouTube Player")
 
 and more !
 

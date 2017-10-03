@@ -5,7 +5,7 @@
 
 Scripts contained in this repository:
 - URL Shortener using [Tiny URL](http://tinyurl.com)
-- [Bing Image](https://www.bing.com/images/) Scraper
+- [Bing Image](https://www.bing.com/images/) Scraper  ![Bing Icon](/Icons/bingIcon.png "Bing Icon")
 - [Reddit Wallpaper](https://www.reddit.com/r/wallpapers/) Scraper
 - Batch Image Resizer
 - Song scraper

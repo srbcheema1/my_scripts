@@ -1,4 +1,4 @@
-# Contributing Guidelines for Algo_Ds
+# Contributing Guidelines
 
 ## Thanks for taking the time to contribute to this project. Before making PRs, please note the following:
 - Give the PR a meaningful name.

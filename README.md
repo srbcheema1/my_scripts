@@ -18,6 +18,5 @@ and much more !
 Contributions are always welcome! And hackobtoberfest t-shirts are cool.
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-***
 
 Created by [srbcheema1](https://github.com/srbcheema1)

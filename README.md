@@ -11,13 +11,12 @@ Scripts contained in this repository:
 - Song scraper
 - YouTube Player  ![YouTube Player Icon](/Icons/youTubeIcon.png "YouTube Player")
 
-and more !
+and much more !
 
 ## Contribute
 
 Contributions are always welcome! And hackobtoberfest t-shirts are cool.
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-<br>
 
 Created by [srbcheema1](https://github.com/srbcheema1)

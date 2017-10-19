@@ -6,7 +6,7 @@ import urllib
 from urllib.request import urlopen
 from PIL import Image
 from skimage import io
-#import cv2
+import cv2
 
 
 def get_camera_image(url):

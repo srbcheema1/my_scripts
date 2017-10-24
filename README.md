@@ -15,7 +15,7 @@ and much more !
 
 ## Contribute
 
-Contributions are always welcome! And hackobtoberfest t-shirts are cool.
+Contributions are always welcome!
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 

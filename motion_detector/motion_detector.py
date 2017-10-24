@@ -97,7 +97,7 @@ def get_dist() :
 def setup_env() :
     '''set up the PINs
     
-    Disabble warnings in case of pins already 
+    Disable warnings in case of pins already 
         in use due to another program before
     '''
     setwarnings (False)
@@ -110,7 +110,7 @@ def setup_env() :
 def setup_dist() :
     '''Calibrate the distance
     
-    Makes the led blinking while setup
+    Makes the LED blinking while setup
     Then turn off the led
     '''
     data = []

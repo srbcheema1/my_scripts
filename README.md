@@ -11,7 +11,7 @@ Scripts contained in this repository:
 - Song scraper
 - YouTube Player  ![YouTube Player Icon](/Icons/youTubeIcon.png "YouTube Player")
 
-and much more !
+and a lot more ! :)
 
 ## Contribute
 
@@ -19,4 +19,4 @@ Contributions are always welcome!
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
-Created by [srbcheema1](https://github.com/srbcheema1)
+Created by [srbcheema1](https://github.com/srbcheema1) and others.

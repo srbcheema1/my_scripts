@@ -4,7 +4,7 @@
 ![python logo](https://www.python.org/static/community_logos/python-powered-w-200x80.png)
 
 Scripts contained in this repository:
-- URL Shortener using [Tiny URL](http://tinyurl.com)
+- URL Shortener using [Tiny URL](http://tinyurl.com) ![Tiny Icon](http://tinyurl.com/siteresources/images/favicon.ico "Teny Icon")
 - [Bing Image](https://www.bing.com/images/) Scraper  ![Bing Icon](/Icons/bingIcon.png "Bing Icon")
 - [Reddit Wallpaper](https://www.reddit.com/r/wallpapers/) Scraper  ![Reddit Icon](/Icons/redditIcon.png "Reddit Icon")
 - Batch Image Resizer

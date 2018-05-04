@@ -3,6 +3,10 @@
 
 ![python logo](https://www.python.org/static/community_logos/python-powered-w-200x80.png)
 
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+
 Scripts contained in this repository:
 - URL Shortener using [Tiny URL](http://tinyurl.com)
 - [Bing Image](https://www.bing.com/images/) Scraper  ![Bing Icon](/Icons/bingIcon.png "Bing Icon")

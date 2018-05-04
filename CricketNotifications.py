@@ -21,8 +21,8 @@ for i in temp:
     i=i.split('"')
     datapath.append(i[1])
     series_names.append(i[13])
-for i in range(len(datapath)):
-    
+
+for i in range(len(datapath)):   
     print str(i+1)+")"+series_names[i]
 
 ip=input("Enter the match number: ")
@@ -34,7 +34,6 @@ counter=0;
 loop_v=0
 
 while(loop_v==0):
-
     r=requests.get(com_url)
     soup=BeautifulSoup(r.content,'html.parser')
     try:

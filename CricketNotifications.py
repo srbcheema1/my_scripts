@@ -14,8 +14,8 @@ soup=BeautifulSoup(r.content,'html.parser')
 temp=soup.find_all('match')
 series_names=[]
 datapath=[]
+
 for i in temp:
-    
     i=str(i)
     i=i.split('datapath')[1]
     i=i.split('"')

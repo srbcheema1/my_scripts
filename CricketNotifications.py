@@ -1,7 +1,9 @@
+#imports
 import requests
 from bs4 import BeautifulSoup
 import time
 import notify2
+
 notify2.init("CricBuzz")
 n=notify2.Notification(None,icon="/home/rohith-gilla/icon.png")
 n.set_urgency(notify2.URGENCY_NORMAL)
@@ -13,13 +15,16 @@ temp=soup.find_all('match')
 series_names=[]
 datapath=[]
 for i in temp:
+    
     i=str(i)
     i=i.split('datapath')[1]
     i=i.split('"')
     datapath.append(i[1])
     series_names.append(i[13])
 for i in range(len(datapath)):
+    
     print str(i+1)+")"+series_names[i]
+
 ip=input("Enter the match number: ")
 datapath=datapath[ip-1]
 series_names=series_names[ip-1]
@@ -27,7 +32,9 @@ com_url=datapath+"commentary.xml"
 old_overs="0"
 counter=0;
 loop_v=0
+
 while(loop_v==0):
+
     r=requests.get(com_url)
     soup=BeautifulSoup(r.content,'html.parser')
     try:
@@ -61,7 +68,6 @@ while(loop_v==0):
     except:
         counter+=1
         pass
-    # print "____"*20
     n.update(bat_tem+":"+runs + "/"+wickets + " Overs : "+str(overs))
     if(old_overs ==overs):
         pass
@@ -80,14 +86,3 @@ while(loop_v==0):
     if(int(wickets)==10):
         loop_v=1
     time.sleep(15)
-# print datapath,series_names
-
-
-
-
-
-
-
-
-# print datapath
-# print series_names

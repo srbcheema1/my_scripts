@@ -19,12 +19,11 @@ def download_img(data,filename): #Function to download images
 
 
 choice=input("How many random images you want to download?? xD \n")
-for i in range(choice):
 
+for i in range(choice):
     l.append(str(random.randint(1,1933))) #Last comic till date is 1933
 
 for i in l:
-
     url="https://xkcd.com/"+str(i)+"/"
     r=requests.get(url)
     soup=BeautifulSoup(r.content,'html.parser')  
